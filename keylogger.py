@@ -1,14 +1,7 @@
-
-
 import tkinter as tk
-
 from tkinter import *
-
 from pynput import keyboard
-
 import json
-
-
 
 keys_used = []
 
